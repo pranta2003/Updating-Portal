@@ -1,4 +1,4 @@
-## 📘 Update Portal — Hwealth
+## 📘 Update Portal — Health
 <p align="center">
 
 ✨ A modern, responsive, upgraded health service portal
@@ -15,7 +15,7 @@ with smoother UX, improved logic, and enhanced security.
 💠 Fast API Communication  
 💠 Smooth UI • Soft Glow Elements • Minimal Animations  
 ```
-(Updated Version are working)
+(Updated Version are on Queue)
 ```
 ✔ Redesigned UI structure
 ✔ Cleaner folder architecture
@@ -82,27 +82,6 @@ Update-Portal-Hwealth/
 │
 └── README.md
 ```
-
-🧭 How to Run (Frontend)
-```
-
-Open folder in VS Code
-
-Run using a Live Server extension
-
-Portal loads at:
-
-http://localhost:5500/
-
-🔐 Backend Setup (Spring Boot)
-```
-# Run the backend
-```
-mvn spring-boot:run
-API will run at:
-http://localhost:8080/api
-```
-
 <p align="center">
   <span style="font-size:30px; font-weight:bold; color:#4FFFD9;">
     ✦ Hwealth — Update Portal ✦
@@ -110,6 +89,20 @@ http://localhost:8080/api
   <sub>Minimal Glow • Modern UI • Smooth Interaction</sub>
 </p>
 
+🧭 How to Run (Frontend)
+```bash
+Open folder in VS Code
+Run using a Live Server extension
+Portal loads at:
+http://localhost:5500/
+```
+🔐 Backend Setup (Spring Boot)
+# Run the backend
+```
+mvn spring-boot:run
+API will run at:
+http://localhost:8080/api
+```
 🤝 Contributing
 ```
 Pull requests are welcome!
@@ -117,9 +110,10 @@ Make sure your code follows the project’s structure and naming patterns.
 ```
 
 ⚖️ License
+
 ```bash
 
 MIT License — free to use, improve, and build on.
 ```
 
-<p align="center"> <b>Made with ❤️ & ✨ done by Pranta</b><br/> <sub>Hwealth — Update Portal</sub> </p>
+<p align="center"> <b>Made with ❤️ & ✨ done by Pranta</b><br/> <sub>Health — Update Portal</sub> </p>
